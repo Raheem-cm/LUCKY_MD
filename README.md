@@ -8,7 +8,7 @@
  
   
 <a href="https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r">
- <img alt="𝕃𝕌ℂ𝕂𝕐 𝕄𝔻" height="300" src="https://files.catbox.moe/otpqav.webp">
+ <img alt="RAHEEM-CM-BOT" height="300" src="https://files.catbox.moe/otpqav.webp">
  
   
 </h1> 
@@ -18,10 +18,10 @@
   <p align="center">
    <!-- Repo Views -->
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRaheem-cm%2FRAHEEM-CM-BOT&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
- <a href="https://github.com/fred1e?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Raheem-cm?label=Followers&style=social"></a>
+ <a href="https://github.com/Raheem-cm?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Raheem-cm?label=Followers&style=social"></a>
 <a href="https://github.com/Raheem-cm/RAHEEM-CM-BOT/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Raheem-cm/RAHEEM-CM-BOT?&style=social"></a>
 <a href="https://github.com/Raheem-cm/RAHEEM-CM-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Raheem-cm/RAHEEM-CM-BOT?style=social"></a>
-<a href="https://github.com/Raheem-cm/lucky_md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Raheem-cm/RAHEEM-CM-BOT?label=Watching&style=social"></a>
+<a href="https://github.com/Raheem-cm/RAHEEM-CM-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Raheem-cm/RAHEEM-CM-BOT?label=Watching&style=social"></a>
 <!-- Repo Size -->
   <img src="https://img.shields.io/github/repo-size/Raheem-cm/RAHEEM-CM-BOT?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
   <!-- Developer -->
@@ -101,7 +101,7 @@ FORWARD COMMAND ADDED you share a message to all members in the group automatic 
 
 ---
 
-## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 𝕃𝕌ℂ𝕂𝕐 𝕄𝔻 
+## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 RAHEEM-CM-BOT 
 
 
 ## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
@@ -197,7 +197,7 @@ The WhatsApp Bot RAHEEM-CM-BOTis released under the [MIT License](https://openso
 
 
 
-🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 𝕃𝕌ℂ𝕂𝕐🍀_𝕄𝔻 🌟
+🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 👍RAHEEM-CM-BOT🌟
 
 
 
@@ -216,7 +216,7 @@ The WhatsApp Bot RAHEEM-CM-BOTis released under the [MIT License](https://openso
 <p align="center"><img src="https://profile-counter.glitch.me/{Raheem-cm}/count.svg" alt="RAHEEM-CM-BOT:: Visitor's Count"/></p>
 
  
-★THANK YOU GOD FOR THAT MOMENT🙏. ©
+★THANK YOU ALLAH FOR THAT MOMENT🙏. ©
 
      
 
