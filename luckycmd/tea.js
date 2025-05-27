@@ -1,7 +1,7 @@
 const util = require('util');
 const fs = require('fs-extra');
-const { ezra } = require(__dirname + "/../fredi/ezra");
-const { format } = require(__dirname + "/../fredi/mesfonctions");
+const { raheem } = require(__dirname + "/../Raheem-cm/18");
+const { format } = require(__dirname + "/../Raheem-cm/mesfonctions");
 const os = require("os");
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../set");
@@ -10,7 +10,7 @@ const readmore = more.repeat(4001);
 
 ezra({ nomCom: "fetal", categorie: "Menu" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre, prefixe, nomAuteurMessage, mybotpic } = commandeOptions;
-    let { cm } = require(__dirname + "/../fredi/ezra");
+    let { cm } = require(__dirname + "/../Raheem-cm/18");
     let coms = {};
     let mode = "public";
 
@@ -38,14 +38,14 @@ ezra({ nomCom: "fetal", categorie: "Menu" }, async (dest, zk, commandeOptions) =
 ┃⊛│◆ 𝚁𝚊𝚖  : 𝟴/𝟭𝟯𝟮 𝗚𝗕
 ┃⊛│◆ 𝙳𝚊𝚝𝚎  : *${date}*
 ┃⊛│◆ 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖 : ${os.platform()}
-┃⊛│◆ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 : ғʀᴇᴅɪᴇ ᴛᴇᴄʜ
+┃⊛│◆ 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 :  RAHEEM-CM 
 ┃⊛│◆ 𝙲𝚘𝚖𝚖𝚊𝚗𝚍𝚜 : ${cm.length}
-┃⊛│◆ 𝚃𝚑𝚎𝚖𝚎 : FRED
+┃⊛│◆ 𝚃𝚑𝚎𝚖𝚎 : RAHEEM 
 ┃⊛└────••••────➻
 ╰─━━━━══──══━━━❂\n${readmore}
 `;
 
-    let menuMsg = `𝙻𝚞𝚌𝚔𝚢 𝙼𝚍 𝙲𝚖𝚍`;
+    let menuMsg = `RAHEEM XMD`;
     
     for (const cat in coms) {
         menuMsg += `
@@ -62,12 +62,12 @@ ezra({ nomCom: "fetal", categorie: "Menu" }, async (dest, zk, commandeOptions) =
     }
     
     menuMsg += `
-> Made By ғʀᴇᴅɪᴇ ᴛᴇᴄʜ\n`;
+> Made By RAHEEM-CM\n`;
 
     try {
         const senderName = nomAuteurMessage || message.from;  // Use correct variable for sender name
         await zk.sendMessage(dest, {
-            image: { url: `https://files.catbox.moe/idb19j.jpeg` },
+            image: { url: `https://files.catbox.moe/gahcu9.jpg` },
             caption: formattedInfo,
             contextInfo: { 
                 mentionedJid: [m.sender],
@@ -75,7 +75,7 @@ ezra({ nomCom: "fetal", categorie: "Menu" }, async (dest, zk, commandeOptions) =
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                     newsletterJid: '120363313124070136@newsletter',
-                    newsletterName: '@IT-frediezra',
+                    newsletterName: 'IT-Raheem',
                     serverMessageId: 143
                 }
             }
