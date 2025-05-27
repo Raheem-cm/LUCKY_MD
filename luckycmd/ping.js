@@ -1,10 +1,10 @@
 const {
   ezra
-} = require("./../fredi/ezra");
+} = require("./../Raheem-cm/18");
 const {
   format,
   runtime
-} = require('../fredi/mesfonctions');
+} = require('../Raheem-cm/mesfonctions');
 const os = require('os');
 const speed = require('performance-now');
 const {
