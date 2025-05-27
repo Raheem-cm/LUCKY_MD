@@ -1,7 +1,7 @@
 const util = require('util');
 const fs = require('fs-extra');
-const { ezra } = require(__dirname + "/../fredi/ezra");
-const { format } = require(__dirname + "/../fredi/mesfonctions");
+const { ezra } = require(__dirname + "/../Raheem-cm/18");
+const { format } = require(__dirname + "/../Raheem-cm/mesfonctions");
 const os = require("os");
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../set");
@@ -10,7 +10,7 @@ const Taphere = more.repeat(4001)
 
 ezra({ nomCom: "problem", categorie: "My Contact" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
-    let { cm } = require(__dirname + "/../fredi//ezra");
+    let { cm } = require(__dirname + "/../Raheem-cm//18");
     var coms = {};
     var mode = "public";
     
@@ -37,18 +37,14 @@ let infoMsg =  `
 ━━━━❍ *FREDIE TECH INFO* ❍━━━━
 ╭──━━━━━━━━━━━━━━━━━━━❍ 
 │
-│  _*Support channel by follow*_ ;https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f
-│  _*Join Our WhatsApp group*_ ;https://chat.whatsapp.com/HdrwMccSFIaB5Zi7s9BzN9
-│  _*WhatsApp Contact As*_ ;Https://wa.me/255752593977 
-│  _*WhatsApp Bot Fork And Star*_ ;https://github.com/Fred1e/LUCKY_MD
-│  _*Telegram Group*_ ;https://t.me/+u3zlb5y6OfxhOTdk
-│  _*Telegram Channel*_ ;https://t.me/FredieTech_BusinessPlace
-│  _*Telegram Bot*_ ;Https://t.me/@fredidurry_bot
-│  _*Telegram Contact As*_ ; t.me/freditech 
-│  _*Instagram*_ ;https://www.instagram.com/fredi.simba.tz
+│  _*Support channel by follow*_ ;https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r
+│  _*Join Our WhatsApp group*_ ;https://chat.whatsapp.com/Jp08rEdDmao1CvCOLH2KTT
+│  _*WhatsApp Contact As*_ ;Https://wa.me/255763111390 
+│  _*WhatsApp Bot Fork And Star*_ ;https://github.com/Raheem-cm/RAHEEM-XMD
+│  _*Instagram*_ ;https://www.instagram.com/mamba.chief?igsh=MTR3eWN5NnB3OTV0eg==
 │  _*Facebook*_ ;https://www.facebook.com/profile.php?id=61553209932337
-│  _*YouTube Channel Subscribe For Tutorial*_ ;https://www.youtube.com/@freeonlinetvT1
-│  _*Follow My Github For About Info*_ ;https://github.com/Fred1e
+│  _*YouTube Channel Subscribe For Tutorial*_ ;https://youtube.com/@chiefmamba-cm18?si=SfmYpZn_dJ5Z44RK
+│  _*Follow My Github For About Info*_ ;https://github.com/Raheem-cm
 │
 ╰──━━━━━━━━━━━━━━━━━━━❍ 
 ╭──━━━━━━━━━━━━━━━──➳❍ 
@@ -64,7 +60,7 @@ let menuMsg = `
 
    ╭──━━━━━━━━━━━━❖
 ╭──━━━➳⊷•∞•➻━━━───❂
-║ 🄻🄴🄲🄺🅈_🄼🄳
+║ RAHEEM-XMD
 ╰──━━━➳⊷•∞•➻━━━───❂
    ╰──━━━━━━━━━━━━❖
 
@@ -88,7 +84,7 @@ let menuMsg = `
 ┃⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⢁⣴⣿⣿⣿⠗⠄⠄⣿
 ┃⠈⠻⣿⣿⣿⣿⣿⣿⠿⠛⣉⣤⣾⣿⣿⣿⣿⣇⠠⠺⣷⣿
 ┃⣦⣄⣈⣉⣉⣉⣡⣤⣶⣿⣿⣿⣿⣿⣿⣿⠉⠁⣀⣼⣿⣿
-│        *LUCKY MD V7*
+│        *RAHEEM-XMD V7*
 ╰─━━━━✣•∞•✣━━━━──❍ 
 
 > ©Fredie projects
@@ -99,7 +95,7 @@ let menuMsg = `
 
    if (lien.match(/\.(mp4|gif)$/i)) {
     try {
-        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Luckymd*, déveloper Fredi Tech" , gifPlayback : true }, { quoted: ms });
+        zk.sendMessage(dest, { video: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *RAHEEM-XMD*, déveloper RAHEEM " , gifPlayback : true }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
@@ -109,7 +105,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *Luckymd*, déveloper Fredie Tech" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *RAHEEM-XMD*, déveloper RAHEEM " }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
