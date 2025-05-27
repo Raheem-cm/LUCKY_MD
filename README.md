@@ -105,7 +105,7 @@ FORWARD COMMAND ADDED you share a message to all members in the group automatic 
 
 
 ## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
-ғᴏʀᴋ ʟᴜᴄᴋʏ ᴍᴅ ʀᴇᴘᴏ
+ғᴏʀᴋ RAHEEM-XMD ʀᴇᴘᴏ
 
 
 </a></p>
