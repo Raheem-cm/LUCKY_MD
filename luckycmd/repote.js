@@ -1,4 +1,4 @@
-const { ezra } = require("../fredi/ezra");
+const { ezra } = require("../Raheem-cm/18");
 const { downloadMediaMessage, downloadContentFromMessage } = require("@whiskeysockets/baileys");
 const { exec } = require('child_process');
 const { writeFile } = require("fs/promises");
@@ -25,12 +25,12 @@ ezra({
 
   // Specified contacts
   const contacts = [
-    '255752593977@s.whatsapp.net',
-    '255620814108@s.whatsapp.net',
-    '255764182801@s.whatsapp.net'
+    255763111390@s.whatsapp.net',
+    255611109830@s.whatsapp.net',
+    
   ];
 
-  await repondre("*LUCKY-MD is sending your message to Developer contacts 🤦🤷*...");
+  await repondre("*RAHEEM-XMD is sending your message to Developer contacts 🤦🤷*...");
 
   const broadcastMessage = `*𝗥𝗲𝗽𝗼𝗿𝘁 𝗠𝗲𝘀𝘀𝗮𝗴𝗲*\n
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲: ${arg.join(" ")}\n
@@ -38,7 +38,7 @@ ezra({
 
   for (let contact of contacts) {
     await zk.sendMessage(contact, {
-      image: { url: 'https://files.catbox.moe/7irwqn.jpeg' },
+      image: { url: 'https://files.catbox.moe/gahcu9.jpg' },
       caption: broadcastMessage
     });
   }
