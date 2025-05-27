@@ -1,4 +1,4 @@
-const { ezra } = require("../fredi/ezra");
+const { ezra } = require("../Raheem-cm/18");
 const { Sticker, StickerTypes } = require('wa-sticker-formatter');
 const { ajouterOuMettreAJourJid, mettreAJourAction, verifierEtatJid } = require("../luckydatabase/antilien");
 const { atbajouterOuMettreAJourJid, atbverifierEtatJid } = require("../luckydatabase/antibot");
@@ -18,7 +18,7 @@ ezra({ nomCom: "getallmembers", categorie: 'Group', reaction: "📣" }, async (d
   let membresGroupe = verifGroupe && infosGroupe ? infosGroupe.participants || [] : [];
 
   let tag = `========================\n  
-        🌟 *LUCKY-MD GROUP MEMBERS GIDS* 🌟
+        🌟 *RAHEEM-XMD GROUP MEMBERS GIDS* 🌟
 ========================\n
 > regards frediezra®\n\n`;
 
@@ -57,7 +57,7 @@ ezra({ nomCom: "tagadmin", categorie: 'Group', reaction: "📣" }, async (dest, 
   let adminsGroupe = membresGroupe.filter(membre => membre.isAdmin);
 
   let tag = `========================\n  
-        🌟 *LUCKY-MD* 🌟
+        🌟 *RAHEEM-XMD* 🌟
 ========================\n
 👥 Group : ${nomGroupe} 🚀 
 👤 Author : *${nomAuteurMessage}* 👋 
