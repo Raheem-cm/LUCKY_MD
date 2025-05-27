@@ -5,7 +5,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 const {
   ezra
-} = require("../fredi/ezra");
+} = require("../Raheem-cm/18");
 ezra({
   'nomCom': "wagroup",
   'reaction': '🤨',
@@ -17,11 +17,11 @@ ezra({
     'text': "Hello 👋\n\nClick on the button below to join the OFFICIAL *LUCKY-MD* WhatsApp Group",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': "https://chat.whatsapp.com/IH4xWuVTGpf7ibfzC3h6LM",
+        'sourceUrl': "https://chat.whatsapp.com/Jp08rEdDmao1CvCOLH2KTT",
         'mediaType': 0x1,
         'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
         'title': "Join Our WhatsApp Group",
-        'body': "Click to join the official LUCKY-MD WhatsApp group!"
+        'body': "Click to join the official RAHEEM XMD WhatsApp group!"
       }
     }
   });
@@ -38,11 +38,11 @@ ezra({
     'text': "Hello 👋\n\nClick on the button below to Follow the OFFICIAL *LUCKY-MD* WhatsApp Channel",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': 'https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f',
+        'sourceUrl': 'https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r',
         'mediaType': 0x1,
         'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
         'title': "Join Our WhatsApp Channel",
-        'body': "Click to join the official LUCKY-MD WhatsApp channel!"
+        'body': "Click to join the official RAHEEM XMD WhatsApp channel!"
       }
     }
   });
@@ -56,14 +56,14 @@ ezra({
 }, async (_0x14c950, _0x346e6b, _0x31cbea) => {
   console.log("Commande saisie !!!s");
   await _0x346e6b.sendMessage(_0x14c950, {
-    'text': "Hello 👋\n\nClick on the button below to contact the OFFICIAL *LUCKY-MD* Owner",
+    'text': "Hello 👋\n\nClick on the button below to contact the OFFICIAL *RAHEEM XMD* Owner",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': 'https:// wa.me/255752593977',
+        'sourceUrl': 'https:// wa.me/255763111390',
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://files.catbox.moe/gahcu9.jpg",
         'title': "Join Our Developer Place",
-        'body': "Click to join the official LUCKY-MD Owner Inbox!"
+        'body': "Click to join the official RAHEEM XMD Owner Inbox!"
       }
     }
   });
@@ -77,14 +77,14 @@ ezra({
 }, async (_0x14c950, _0x346e6b, _0x31cbea) => {
   console.log("Commande saisie !!!s");
   await _0x346e6b.sendMessage(_0x14c950, {
-    'text': "Hello 👋\n\nClick on the photo below to Follow the OFFICIAL *FREDIETECH* Facebook Page",
+    'text': "Hello 👋\n\nClick on the photo below to Follow the OFFICIAL *RAHEEM-CM* Facebook Page",
     'contextInfo': {
       'externalAdReply': {
         'sourceUrl': 'https://www.facebook.com/profile.php?id=61553209932337',
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://files.catbox.moe/gahcu9.jpg",
         'title': "Follow Facebook Page 📄",
-        'body': "Click to join the official FREDIETECH Facebook Page!"
+        'body': "Click to join the official RAHEEM-CM Facebook Page!"
       }
     }
   });
@@ -98,14 +98,14 @@ ezra({
 }, async (_0x14c950, _0x346e6b, _0x31cbea) => {
   console.log("Commande saisie !!!s");
   await _0x346e6b.sendMessage(_0x14c950, {
-    'text': "Hello 👋\n\nClick on the photo below to Follow the OFFICIAL *FREDIETECH* Instagram Page",
+    'text': "Hello 👋\n\nClick on the photo below to Follow the OFFICIAL *RAHEEM-CM* Instagram Page",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': 'https://www.instagram.com/fredi.simba.tz',
+        'sourceUrl': 'https://www.instagram.com/mamba.chief?igsh=MTR3eWN5NnB3OTV0eg==',
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://files.catbox.moe/otpqav.webp",
         'title': "Follow Instagram Page 📄",
-        'body': "Click to join the official FREDIETECH Instagram Page!"
+        'body': "Click to join the official CHIEF MAMBA Instagram Page!"
       }
     }
   });
@@ -122,11 +122,11 @@ ezra({
     'text': "Hello 👋\n\nClick on the photo below to Follow the OFFICIAL *FREDIETECH* Threads Page",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': 'https://www.threads.net/@fredi.simba.tz',
+        'sourceUrl': '',
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://files.catbox.moe/otpqav.webp",
         'title': "Follow Threads Page 📄",
-        'body': "Click to join the official FREDIETECH Threads Page!"
+        'body': "Click to join the official CHIEF MAMBA Threads Page!"
       }
     }
   });
@@ -143,11 +143,11 @@ ezra({
     'text': "Hello 👋\n\nClick on the photo below to Follow the OFFICIAL *FREDIETECH* TikTok Page",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': 'https://www.tiktok.com/@fredietech',
+        'sourceUrl':"https://www.tiktok.com/@mohamedbinhuzaifa?_t=ZM-8wfhIc8KNFQ&_r=1,
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://files.catbox.moe/otpqav.webp",
         'title': "Follow TikTok Page 📄",
-        'body': "Click to join the official FREDIETECH TikTok Page!"
+        'body': "Click to join the official ABDULRAHIM TikTok Page!"
       }
     }
   });
@@ -164,11 +164,11 @@ ezra({
     'text': "Hello 👋\n\nClick on the photo below to Join the OFFICIAL *LUCKY_MD* Telegram Group",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': 'https://t.me/+u3zlb5y6OfxhOTdk',
+        'sourceUrl': '',
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://files.catbox.moe/gahcu9.jpg",
         'title': "Join Telegram Group📄",
-        'body': "Click to join the official LUCKY_MD Telegram Group!"
+        'body': "Click to join the official RAHEEM XMD Telegram Group!"
       }
     }
   });
@@ -185,7 +185,7 @@ ezra({
     'text': "Hello 👋\n\nClick on the photo below to Subscribe the OFFICIAL *FREDIETECH* YouTube Channel",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': 'https://www.youtube.com/@freeonlinetvT1',
+        'sourceUrl': 'https://youtube.com/@chiefmamba-cm18?si=SfmYpZn_dJ5Z44RK',
         'mediaType': 0x1,
         'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
         'title': "Follow YouTube Channel📄",
@@ -203,14 +203,14 @@ ezra({
 }, async (_0x14c950, _0x346e6b, _0x31cbea) => {
   console.log("Commande saisie !!!s");
   await _0x346e6b.sendMessage(_0x14c950, {
-    'text': "Hello 👋\n\nClick on the photo below to connect the OFFICIAL *FREDIETECH* Telegram Inbox",
+    'text': "Hello 👋\n\nClick on the photo below to connect the OFFICIAL *CHIEF MAMBA * Telegram Inbox",
     'contextInfo': {
       'externalAdReply': {
-        'sourceUrl': 'https://t.me/freditech',
+        'sourceUrl': '',
         'mediaType': 0x1,
-        'mediaUrl': "https://files.catbox.moe/7irwqn.jpeg",
+        'mediaUrl': "https://files.catbox.moe/otpqav.webp",
         'title': "Chating With Owner",
-        'body': "Click to Contact the official FREDIETECH Telegram Inbox!"
+        'body': "Click to Contact the official RAHEEM XMD Telegram Inbox!"
       }
     }
   });
