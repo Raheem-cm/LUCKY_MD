@@ -1,11 +1,11 @@
-const { ezra } = require("../fredi/ezra");
+const { ezra } = require("../Raheem-cm/18");
 const conf = require(__dirname + "/../set");
 
 ezra({
   nomCom: "profile",
   aliases: ["pp", "who"],
   desc: "to generate profile picture",
-  categorie: "Fledi-Fun"
+  categorie: "Raheem-cm"
 }, async (dest, zk, commandeOptions) => {
   const { ms, arg, repondre, auteurMessage, nomAuteurMessage, msgRepondu, auteurMsgRepondu } = commandeOptions;
 
