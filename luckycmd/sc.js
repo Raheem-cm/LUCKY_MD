@@ -1,7 +1,7 @@
 const util = require('util');
 const fs = require('fs-extra');
-const { ezra } = require(__dirname + "/../fredi/ezra");
-const { format } = require(__dirname + "/../fredi/mesfonctions");
+const { Raheem } = require(__dirname + "/../Raheem-cm/18");
+const { format } = require(__dirname + "/../Raheem-cm/mesfonctions");
 const os = require("os");
 const moment = require("moment-timezone");
 const s = require(__dirname + "/../set");
@@ -29,7 +29,7 @@ ezra({ nomCom: "sc", categorie: "My Contact" }, async (dest, zk, commandeOptions
 
     moment.tz.setDefault('Etc/GMT');
 
-// Créer une date et une heure en GMT
+// Créer une date et une >heure en GMT
 const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
@@ -40,23 +40,17 @@ const date = moment().format('DD/MM/YYYY');
 ❂━━━➳════⊷════➳━━━━❂
 
 *GITHUB LINK*
-> https://github.com/Fred1e
-
-*TELEGRAM GROUP*
-> https://t.me/+u3zlb5y6OfxhOTdk
-
-*FOR DEVELOPER T.ME*
-> https://t.me/freditech
+> https://github.com/Raheem-cm
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f 
+> https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r 
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://github.com/Fred1e/LUCKY_MD
+> https://github.com/Raheem-cm/RAHEEM_XMD
 ╭──━━━━═════════━━━━⦿
 ┃ ❂━━━════➳════━━━━❂
 ┃▓▒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-┃▓▒ *DEV* : *LUCKY BOT*
+┃▓▒ *DEV* : *RAHEEM BOT*
 ┃ ❂━━━════➳════━━━━❂
 ⁠⁠⁠⁠╰──━━━━═════════━━━━⦿ 
   `;
@@ -64,7 +58,7 @@ const date = moment().format('DD/MM/YYYY');
 let menuMsg = `
      ╭──━━━━══⊷══━━━━⦿
      ┃ ❂━━━━━━━━━━━━❂
-     ┃▓ LUCKY MD
+     ┃▓ RAHEEM XMD
      ┃ ❂━━━━━━━━━━━━❂
      ╰──━━━━══⊷══━━━━⦿
 ❂━━━━═════⊷═════━━━━❂
