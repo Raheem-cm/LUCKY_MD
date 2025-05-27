@@ -1,13 +1,13 @@
 
 
 
-const {ezra} = require('../fredi/ezra');
+const {ezra} = require('../Raheem-cm/18');
 var gis = require('g-i-s');
 
 
 ezra({
   nomCom: "img",
-  categorie: "luckymd-search",
+  categorie: "RAHEEM-XMD-search",
   reaction: "📷"
 },
 async (dest, zk, commandeOptions) => {
