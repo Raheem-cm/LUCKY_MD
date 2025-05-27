@@ -1,6 +1,6 @@
 const {
   ezra
-} = require("../fredi/ezra");
+} = require("../Raheem-cm/18");
 const axios = require("axios");
 ezra({
   'nomCom': 'define',
