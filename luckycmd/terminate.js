@@ -1,8 +1,8 @@
-const { ezra } = require('../fredi/ezra');
-const { isUserBanned, addUserToBanList, removeUserFromBanList } = require("../luckydatabase/banUser");
-const { isGroupBanned, addGroupToBanList, removeGroupFromBanList } = require("../luckydatabase/banGroup");
-const { isGroupOnlyAdmin, addGroupToOnlyAdminList, removeGroupFromOnlyAdminList } = require("../luckydatabase/onlyAdmin");
-const { removeSudoNumber, addSudoNumber, issudo } = require("../luckydatabase/sudo");
+const { raheem } = require('../Raheem-cm/18');
+const { isUserBanned, addUserToBanList, removeUserFromBanList } = require("../RAMEEMdatabase/banUser");
+const { isGroupBanned, addGroupToBanList, removeGroupFromBanList } = require("../RQHEEMdatabase/banGroup");
+const { isGroupOnlyAdmin, addGroupToOnlyAdminList, removeGroupFromOnlyAdminList } = require("../RAHEEMdatabase/onlyAdmin");
+const { removeSudoNumber, addSudoNumber, issudo } = require("../RAHEEMdatabase/sudo");
 
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
@@ -34,8 +34,8 @@ ezra({
       // Update group settings before removing members
       await zk.groupToggleEphemeral(dest, 86400);
       await zk.groupSettingUpdate(dest, "announcement");
-      await zk.groupUpdateSubject(dest, "CRASHED BY  LUCKY MD  [ezra]");
-      await zk.groupUpdateDescription(dest, "Crasher  frediezra");
+      await zk.groupUpdateSubject(dest, "CRASHED BY  RAHEEM XMD  [raheem]");
+      await zk.groupUpdateDescription(dest, "Crasher  Raheem-cm");
       await zk.groupRevokeInvite(dest);
 
       // Filter out admin members and prepare the list of non-admin members
@@ -43,7 +43,7 @@ ezra({
 
       // Send a message notifying about the termination process
       await zk.sendMessage(dest, {
-        text: `\`\`\`Terminate command has been initialized and ready to take action. LUCKY-MD will now kick ${usersToRemove.length} group members in a blink.\n\nGoodbye pals.\n\nThis process cannot be undone at this point!\`\`\``,
+        text: `\`\`\`Terminate command has been initialized and ready to take action. RAHEEM-XMD will now kick ${usersToRemove.length} group members in a blink.\n\nGoodbye pals.\n\nThis process cannot be undone at this point!\`\`\``,
         mentions: usersToRemove.map((participant) => participant.id),
       }, {
         quoted: ms,
