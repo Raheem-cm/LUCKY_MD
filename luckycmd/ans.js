@@ -1,5 +1,5 @@
-const { ezra } = require('../fredi/ezra');
-const traduire = require("../fredi/traduction") ;
+const { ezra } = require('../Raheem-cm/18');
+const traduire = require("../Raheem-cm/traduction") ;
 const { default: axios } = require('axios');
 //const conf = require('../set');
 
