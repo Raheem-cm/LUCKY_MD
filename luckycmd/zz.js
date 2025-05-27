@@ -1,4 +1,4 @@
-const { ezra } = require("../fredi/ezra");
+const { raheem } = require("../Raheem-cm/18");
 const axios = require('axios');
 const ytSearch = require('yt-search');
 const conf = require(__dirname + '/../set');
@@ -90,15 +90,15 @@ ezra({
     // Prepare the message payload with external ad details
     const messagePayloads = [
       {
-      caption: `\n*LUCKY MD AUDIOS*\n
+      caption: `\n*RAHEEM-XMD AUDIOS*\n
 ╭┈┈┈⊷
-┊ *Made:* in Arusha Tanzania 
+┊ *Made:* in Dar es Salaam Tanzania 
 ┊ *Quality:* High
-┊ *Powered:* by FrediEtech 
+┊ *Powered:* by Raheem-cm
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
-🌐 *Bot Repo:* https://github.com/Fred1e/LUCKY_MD
+🌐 *Bot Repo:* https://github.com/Raheem-cm/RAHEEM_XMD
 
-> regards frediezra`,
+> regards Raheem-cm`,
         audio: { url: downloadUrl },
         mimetype: 'audio/mp4',
         contextInfo: {
@@ -114,15 +114,15 @@ ezra({
         },
       },
       {
-      caption: `\n*LUCKY MD AUDIOS*\n
+      caption: `\n*RAHEEM-XMD AUDIOS*\n
 ╭┈┈┈⊷
-┊ *Made:* in Arusha Tanzania 
+┊ *Made:* in Dar es Salaam Tanzania 
 ┊ *Quality:* High
-┊ *Powered:* by FrediEtech 
+┊ *Powered:* by Raheem-cm
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
-🌐 *Bot Repo:* https://github.com/Fred1e/LUCKY_MD
+🌐 *Bot Repo:* https://github.com/Raheem-cm/RAHEEM_XMD
 
-> regards frediezra`,
+> regards Raheem-cm`,
         document: { url: downloadUrl },
         mimetype: 'audio/mpeg',
         contextInfo: {
@@ -138,15 +138,15 @@ ezra({
         },
       },
       {
-      caption: `\n*LUCKY MD AUDIOS*\n
+      caption: `\n*RAHEEM XMD AUDIOS*\n
 ╭┈┈┈⊷
-┊ *Made:* in Arusha Tanzania 
+┊ *Made:* in Dar es Salaam Tanzania 
 ┊ *Quality:* High
-┊ *Powered:* by FrediEtech 
+┊ *Powered:* by Raheem-cm
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
-🌐 *Bot Repo:* https://github.com/Fred1e/LUCKY_MD
+🌐 *Bot Repo:* https://github.com/Raheem-cm/RAHEEM_XMD
 
-> regards frediezra`,
+> regards Raheem-cm`,
         document: { url: downloadUrl },
         mimetype: 'audio/mp4',
         contextInfo: {
@@ -239,15 +239,15 @@ ezra({
     // Prepare the message payload with external ad details
     const messagePayloads = [
       {
-      caption: `\n*LUCKY MD AUDIOS*\n
+      caption: `\n*RAHEEM XMD AUDIOS*\n
 ╭┈┈┈⊷
-┊ *Made:* in Arusha Tanzania 
+┊ *Made:* in Dar es Salaam Tanzania 
 ┊ *Quality:* High
-┊ *Powered:* by FrediEtech 
+┊ *Powered:* by Raheem-cm
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
-🌐 *Bot Repo:* https://github.com/Fred1e/LUCKY_MD
+🌐 *Bot Repo:* https://github.com/Raheem-cm/RAHEEM_XMD
 
-> regards frediezra`,
+> regards Raheem-cm`,
         video: { url: downloadUrl },
         mimetype: 'video/mp4',
         contextInfo: {
@@ -263,15 +263,15 @@ ezra({
         },
       },
       {
-      caption: `\n*LUCKY MD AUDIOS*\n
+      caption: `\n*RAHEEM XMD AUDIOS*\n
 ╭┈┈┈⊷
-┊ *Made:* in Arusha Tanzania 
+┊ *Made:* in Dar es Salaam Tanzania 
 ┊ *Quality:* High
-┊ *Powered:* by FrediEtech 
+┊ *Powered:* by Raheem-cm
 ╰┈┈┈┈┈┈┈┈┈┈┈┈┈⊷
-🌐 *Bot Repo:* https://github.com/Fred1e/LUCKY_MD
+🌐 *Bot Repo:* https://github.com/Raheem-cm/RAHEEM_XMD
 
-> regards frediezra`,
+> regards Raheem-cm`,
         document: { url: downloadUrl },
         mimetype: 'video/mp4',
         contextInfo: {
