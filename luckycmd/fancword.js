@@ -1,5 +1,5 @@
-const { ezra } = require("../fredi/ezra");
-const fancy = require("../fredi/style");
+const { ezra } = require("../Raheem-cm/18");
+const fancy = require("../Raheem-cm/style");
 
 ezra({ nomCom: "fancy", categorie: "Fun", reaction: "✍️" }, async (dest, zk, commandeOptions) => {
     const { arg, repondre, prefixe } = commandeOptions;
@@ -8,7 +8,7 @@ ezra({ nomCom: "fancy", categorie: "Fun", reaction: "✍️" }, async (dest, zk,
 
     try {
         if (id === undefined || text === undefined) {
-            return await repondre(`\nExemple : ${prefixe}fancy 10 LUCKY MD 2025\n` + String.fromCharCode(8206).repeat(4001) + fancy.list('LUCKY MD 2025', fancy));
+            return await repondre(`\nExemple : ${prefixe}fancy 10 RAHEEM XMD 2025\n` + String.fromCharCode(8206).repeat(4001) + fancy.list('RAHEEM XMD 2025', fancy));
         }
 
         const selectedStyle = fancy[parseInt(id) - 1];
