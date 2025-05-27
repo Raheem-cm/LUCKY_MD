@@ -1,5 +1,5 @@
 const { Sticker, createSticker, StickerTypes } = require('wa-sticker-formatter');
-const { ezra } = require("../fredi/ezra");
+const { raheem} = require("../Raheem-cm/18");
 const { downloadMediaMessage } = require('@whiskeysockets/baileys');
 const fs = require("fs-extra");
 const ffmpeg = require("fluent-ffmpeg");
@@ -91,10 +91,10 @@ ezra({ nomCom: "url", categorie: "General", reaction: "👨🏿‍💻" }, async
                 repondre(`Lucky url: ${catboxUrl}`);
                 break;
             case 'video':
-                repondre(`lucky url: ${catboxUrl}`);
+                repondre(`RAHEEM url: ${catboxUrl}`);
                 break;
             case 'audio':
-                repondre(`lucky url: ${catboxUrl}`);
+                repondre(`RAHEEM url: ${catboxUrl}`);
                 break;
             default:
                 repondre('An unknown error occurred.');
