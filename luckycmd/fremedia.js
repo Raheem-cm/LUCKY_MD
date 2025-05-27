@@ -1,6 +1,6 @@
 const {
   ezra
-} = require("../fredi/ezra");
+} = require("../Raheem-cm/18");
 const {
   default: axios
 } = require("axios");
@@ -24,7 +24,7 @@ ezra({
       'image': {
         'url': _0x93b128
       },
-      'caption': "*powered by ✧⁠LUCKY_MD✧*"
+      'caption': "*powered by RAHEEM-XMD✧*"
     }, {
       'quoted': _0x4eb9fe
     });
