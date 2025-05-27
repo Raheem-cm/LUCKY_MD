@@ -1,6 +1,6 @@
 const {
   ezra
-} = require("../fredi/ezra");
+} = require("../Raheem-cm/ezra");
 const capitalGame = [{
   'country': "Afghanistan",
   'capital': 'Kabul'
