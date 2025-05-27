@@ -1,4 +1,4 @@
-const { ezra } = require(__dirname + "/../fredi/ezra");
+const { ezra } = require(__dirname + "/../Raheem-cm/18");
 
 // Function to convert text to fancy uppercase font
 const toFancyUppercaseFont = (text) => {
@@ -59,10 +59,10 @@ ezra({
         text: menu,
         contextInfo: {
             externalAdReply: {
-                title: "LUCKY-MD",
-                body: "𝐫𝐞𝐠𝐚𝐫𝐝𝐬 frediezra",
-                thumbnailUrl: "https://files.catbox.moe/7irwqn.jpeg",
-                sourceUrl: "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f",
+                title: "RAHEEM-XMD",
+                body: "𝐫𝐞𝐠𝐚𝐫𝐝𝐬 Abdulrahim",
+                thumbnailUrl: "https://files.catbox.moe/otpqav.webp",
+                sourceUrl: "https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r",
                 mediaType: 1,
                 renderLargerThumbnail: true
             }
