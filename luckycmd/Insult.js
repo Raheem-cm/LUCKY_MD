@@ -1,4 +1,4 @@
-const { ezra } = require('../fredi/ezra');
+const { cm18 } = require('../Raheem-cm/18');
 const axios = require("axios");
 
 ezra({
