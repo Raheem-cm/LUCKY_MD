@@ -1,4 +1,4 @@
-const { ezra } = require("../fredi/ezra");
+const { ezra } = require("../Raheem-cm/18");
 const axios = require('axios'); // Ensure axios is imported
 const conf = require(__dirname + "/../set");
 
@@ -25,7 +25,7 @@ ezra({
             title: conf.BOT,
             body: "Islamic Teachings",
             thumbnailUrl: conf.URL,
-            sourceUrl: "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f",
+            sourceUrl: "https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r",
             mediaType: 1,
             showAdAttribution: true,
           },
