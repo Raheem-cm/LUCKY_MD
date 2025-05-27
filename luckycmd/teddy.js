@@ -1,12 +1,12 @@
-const { ezra } = require('../fredi/ezra');
+const { raheem } = require('../Raheem-cm/18');
 
-// For Lucky MD, we use a simple object to store per-chat state.
+// For RAHEEM XMD, we use a simple object to store per-chat state.
 let teddyState = {};
 
 ezra({
   nomCom: "teddy",
   type: "fun",
-  info: "Cute teddy command for Lucky MD project",
+  info: "Cute teddy command for RAHEEM XMD project",
   on: "text",
   filename: __filename,
 }, async (dest, zk, commandeOptions) => {
