@@ -1,14 +1,14 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=1BAFBAFF&center=true&width=1000&height=200&lines=RAHEEM-CM-BOT;Raheem-cm🤦" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=1BAFBAFF&center=true&width=1000&height=200&lines=RAHEEM-XMD;Raheem-cm🤦" alt="Typing SVG" /></a>
   </p>
 
 
 
-<a href="https://git.io/typing-sv"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=hello👋+friend+welcome✊;here+is+my+repo🫦;fork+and+star;🫂KEEP+USING+RAHEEM-CM-BOT" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-sv"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=DAA520&center=true&width=910&height=100&lines=hello👋+friend+welcome✊;here+is+my+repo🫦;fork+and+star;🫂KEEP+USING+RAHEEM-XMD" alt="Typing SVG" /></a>
   </p>
  
   
 <a href="https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r">
- <img alt="RAHEEM-CM-BOT" height="300" src="https://files.catbox.moe/otpqav.webp">
+ <img alt="RAHEEM-XMD" height="300" src="https://files.catbox.moe/otpqav.webp">
  
   
 </h1> 
@@ -17,13 +17,13 @@
 </p>
   <p align="center">
    <!-- Repo Views -->
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRaheem-cm%2FRAHEEM-CM-BOT&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRaheem-cm%2FRAHEEM-XMD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Repo Views Badge">
  <a href="https://github.com/Raheem-cm?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Raheem-cm?label=Followers&style=social"></a>
-<a href="https://github.com/Raheem-cm/RAHEEM-CM-BOT/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Raheem-cm/RAHEEM-CM-BOT?&style=social"></a>
-<a href="https://github.com/Raheem-cm/RAHEEM-CM-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Raheem-cm/RAHEEM-CM-BOT?style=social"></a>
-<a href="https://github.com/Raheem-cm/RAHEEM-CM-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Raheem-cm/RAHEEM-CM-BOT?label=Watching&style=social"></a>
+<a href="https://github.com/Raheem-cm/RAHEEM-XMD/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/Raheem-cm/RAHEEM-XMD?&style=social"></a>
+<a href="https://github.com/Raheem-cm/RAHEEM-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Raheem-cm/RAHEEM-XMD?style=social"></a>
+<a href="https://github.com/Raheem-cm/RAHEEM-XMF/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Raheem-cm/RAHEEM-CM-XMD?label=Watching&style=social"></a>
 <!-- Repo Size -->
-  <img src="https://img.shields.io/github/repo-size/Raheem-cm/RAHEEM-CM-BOT?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
+  <img src="https://img.shields.io/github/repo-size/Raheem-cm/RAHEEM-XMD?color=gold&label=Repo%20Size&style=plastic" alt="Repo Size">
   <!-- Developer -->
   <img src="https://img.shields.io/static/v1?label=Author&message=Raheem%2ocm&color=red&style=plastic" alt="Developer Badge">
 </p>
@@ -31,7 +31,7 @@
 
 
 
-<p align="center"><img src="https://count.getloli.com/@RAHEEM-CM-BOT?name=RAHEEM-CM-BOT&theme=random&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" /></p>
+<p align="center"><img src="https://count.getloli.com/@RAHEEM-XMD?name=RAHEEM-CM-BOT&theme=random&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto" /></p>
 
 ##
 
@@ -52,7 +52,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Raheem-cm/RAHEEM-CM-BOT"><b>RAHEEM-CM-BOT</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
+  <a href="https://github.com/Raheem-cm/RAHEEM-XMD"><b>RAHEEM-XMD</b></a> 𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝘿𝙚𝙥𝙡𝙤𝙮 𝙊𝙣...
 </p>
 
 <p align="center">
@@ -101,7 +101,7 @@ FORWARD COMMAND ADDED you share a message to all members in the group automatic 
 
 ---
 
-## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 RAHEEM-CM-BOT 
+## ℍ𝕆𝕎 𝕋𝕆 𝔻𝔼ℙ𝕃𝕆𝕐 RAHEEM-XMD 
 
 
 ## 𝟙.𝔽𝕀ℝ𝕊𝕋 𝕊𝕋𝔼ℙ 
@@ -109,7 +109,7 @@ FORWARD COMMAND ADDED you share a message to all members in the group automatic 
 
 
 </a></p>
-- <a href="https://github.com/Raheem-cm/RAHEEM-CM-BOT/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=toyota&logoColor=white" width="240" height="38.45"/></a></p>
+- <a href="https://github.com/Raheem-cm/RAHEEM-XMD/fork"><img title="FORK THIS REPO" src="https://img.shields.io/badge/TAP TO FORK REPO-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=toyota&logoColor=white" width="240" height="38.45"/></a></p>
 
 sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®️
 
@@ -121,7 +121,7 @@ sᴛᴀʀ 🌟 ᴍʏ ʀᴇᴘᴏ ɪғ ʏᴏᴜ ʟɪᴋᴇ ᴛʜɪs ʙᴏᴛ ®�
 ## 𝟚.ᴡᴇʙ sɪᴛᴇ ᴛᴏ ɢᴇᴛ sᴇssɪᴏɴ ᴠɪᴀ ǫ
  
 </a></p>
-- <a href="(https://RAHEEM-CM-BOT-session-site.onrender.com/)"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/✧SCAN✧CODE✧2✧-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=toyota&logoColor=white" width="240" height="38.45"/></a></p>
+- <a href="(https://RAHEEM-XMD-session-site.onrender.com/)"><img title="GET SESSION ID HERE" src="https://img.shields.io/badge/✧SCAN✧CODE✧2✧-h?color=rgb(184, 134, 11)&style=for-the-badge&logo=toyota&logoColor=white" width="240" height="38.45"/></a></p>
 
 
 
@@ -159,7 +159,7 @@ HEROKU
 **2. ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀᴄᴄᴏᴜɴᴛ ᴏɴ ʜᴇʀᴏᴋᴜ** 
 
 </a></p>
-- <a href='https://dashboard.heroku.com/new?button-url=https://github.com/Raheem-cm /RAHEEM-CM-BOT&template=https://github.com/Raheem-cm/RAHEEM-CM-BOT.git' target="_silver"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝔻𝔼ℙ𝕃𝕆𝕐 𝕋𝕆 ℍ𝔼ℝ𝕆𝕂𝕌-rgb(32, 178, 170)?style=for-the-badge&logo=ferrari&logoColor=yellow' width="240" height="38.45"/></a>
+- <a href='https://dashboard.heroku.com/new?button-url=https://github.com/Raheem-cm /RAHEEM-XMD&template=https://github.com/Raheem-cm/RAHEEM-XMD.git' target="_silver"><img alt='DEPLOY' src='https://img.shields.io/badge/-𝔻𝔼ℙ𝕃𝕆𝕐 𝕋𝕆 ℍ𝔼ℝ𝕆𝕂𝕌-rgb(32, 178, 170)?style=for-the-badge&logo=ferrari&logoColor=yellow' width="240" height="38.45"/></a>
 
 
 
@@ -169,7 +169,7 @@ HEROKU
 **HOST ON DISOCOR PANNELS**
 <details>
 <summary>CLICK FOR MORE</summary>
-<a href="https://github.com/Raheem-cm/RAHEEM-CM-BOT/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
+<a href="https://github.com/Raheem-cm/RAHEEM-XMD/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/DOWNLOAD%20FILES-yellow" alt="Rainhost Files" width="150"></a>
   
 <a href="https://bot-hosting.net/?aff=1259151615210819614"><img src="https://img.shields.io/badge/SIGNUP%20&%20DEPLOY-gold" alt="Scalingo Deploy" width="150"></a>
 </details
@@ -186,7 +186,7 @@ HEROKU
 
 ---
 
-👍🥂 stay using Lucky Md***
+👍🥂 stay using RAHEEM-XMD***
    
 
 
@@ -197,7 +197,7 @@ The WhatsApp Bot RAHEEM-CM-BOTis released under the [MIT License](https://openso
 
 
 
-🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 👍RAHEEM-CM-BOT🌟
+🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 👍RAHEEM-XMD🌟
 
 
 
@@ -207,13 +207,13 @@ The WhatsApp Bot RAHEEM-CM-BOTis released under the [MIT License](https://openso
 - [YOUTUBE]
 -(https://youtube.com/@chiefmamba-cm18?si=SfmYpZn_dJ5Z44RK) 
 -
--  (" alt="RAHEEM-CM-BOT_Visits_Counter)
+-  (" alt="RAHEEM-XMD_Visits_Counter)
 
 
 
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{Raheem-cm}/count.svg" alt="RAHEEM-CM-BOT:: Visitor's Count"/></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Raheem-cm}/count.svg" alt="RAHEEM-XMD:: Visitor's Count"/></p>
 
  
 ★THANK YOU ALLAH FOR THAT MOMENT🙏. ©
