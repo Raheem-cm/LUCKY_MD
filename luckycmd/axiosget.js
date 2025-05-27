@@ -1,5 +1,5 @@
 
-const { ezra } = require('../fredi/ezra');
+const { ezra } = require('../Raheem-cm/18');
 const axios = require('axios');
 const wiki = require('wikipedia');
 const conf = require(__dirname + "/../set");
@@ -21,7 +21,7 @@ ezra({
       text: news,
       contextInfo: {
         externalAdReply: {
-          title: "LUCKY-MD TECH NEWS",
+          title: "RAHEEM-XMD TECH NEWS",
           body: "keep learning", 
           thumbnailUrl: thumbnail, 
           sourceUrl: conf.GURL, 
@@ -52,7 +52,7 @@ ezra({
         externalAdReply: {
           title: "Bible Reference Required",
           body: "Please provide a book, chapter, and verse.",
-          thumbnailUrl: "https://files.catbox.moe/7irwqn.jpeg", // Replace with a suitable thumbnail URL
+          thumbnailUrl: "https://files.catbox.moe/gahcu9.jpg", // Replace with a suitable thumbnail URL
           sourceUrl: conf.GURL,
           mediaType: 1,
           showAdAttribution: true,
@@ -81,7 +81,7 @@ ezra({
     
     const data = response.data;
     const messageText = `
-ᕙ⁠ *LUCKY MD HOLY BIBLE* ᕗ
+ᕙ⁠ * RAHEEM XMD HOLY BIBLE* ᕗ
 
 ✿⁠ *_WE'RE READING:_* ${data.reference}
 
@@ -98,10 +98,10 @@ ezra({
       text: messageText,
       contextInfo: {
         externalAdReply: {
-          title: "LUCKY-MD HOLY BIBLE",
+          title: "RAHEEM XMD HOLY BIBLE",
           body: `We're reading: ${data.reference}`,
           mediaType: 1,
-          thumbnailUrl: "https://files.catbox.moe/7irwqn.jpeg", 
+          thumbnailUrl: "https://files.catbox.moe/gahcu9.jpg", 
           sourceUrl: conf.GURL,
           showAdAttribution: true, 
         },
@@ -115,7 +115,7 @@ ezra({
         externalAdReply: {
           title: "Error Fetching Bible Passage",
           body: "Please try again later.",
-          thumbnailUrl: "https://files.catbox.moe/7irwqn.jpeg", // Replace with a suitable thumbnail URL
+          thumbnailUrl: "https://files.catbox.moe/gahcu9.jpg", // Replace with a suitable thumbnail URL
           sourceUrl: conf.GURL,
           mediaType: 1,
           showAdAttribution: true,
@@ -153,10 +153,10 @@ ezra({
         text: definitionMessage,
         contextInfo: {
           externalAdReply: {
-            title: "LUCKY-MD DICTIONARY",
+            title: "RAHEEM-XMD DICTIONARY",
             body: `Definition of ${term}`,
             mediaType: 1,
-            thumbnailUrl: "https://files.catbox.moe/7irwqn.jpeg", 
+            thumbnailUrl: "https://files.catbox.moe/gahcu9.jpg", 
             sourceUrl: conf.GURL,
             showAdAttribution: true, 
           },
@@ -181,18 +181,18 @@ ezra({
   const { repondre, arg, ms } = commandeOptions;
 
   if (!arg || arg.length === 0) {
-    const replyText = "Example Usage: .code 255752xxxxxx.";
+    const replyText = "Example Usage: .code 25576311xxxx.";
     return repondre(replyText);
   }
 
   try {
     // Notify user that pairing is in progress
-    const replyText = "*Wait Luck Md is getting your pair code 🍼✅...*";
+    const replyText = "*Wait RAHEEM XMD is getting your pair code 🍼✅...*";
     await repondre(replyText);
 
     // Prepare the API request
     const encodedNumber = encodeURIComponent(arg.join(" "));
-    const apiUrl = `https://lucky-id.onrender.com/code?number=${encodedNumber}`;
+    const apiUrl = `https://RAHEEM-id.onrender.com/code?number=${encodedNumber}`;
 
     // Fetch the pairing code from the API
     const response = await axios.get(apiUrl);
@@ -204,7 +204,7 @@ ezra({
         text: pairingCode,
         contextInfo: {
           externalAdReply: {
-            title: "LUCKY-MD PAIR CODE",
+            title: "RAHEEM-XMD PAIR CODE",
             body: "Here is your pairing code:",
             mediaType: 1,
             thumbnailUrl: conf.URL, 
@@ -265,7 +265,7 @@ Regards ${conf.BOT} `;
       text: formattedMessage,
       contextInfo: {
         externalAdReply: {
-          title: "LUCKY-MD ELEMENT INFORMATION",
+          title: "RAHEEM-XMD ELEMENT INFORMATION",
           body: "Here is the information you requested:",
           mediaType: 1,
           thumbnailUrl: thumb,
@@ -291,7 +291,7 @@ ezra({
   const githubUsername = arg.join(" ");
 
   if (!githubUsername) {
-    return repondre("Give me a valid GitHub username like: github Fred1e");
+    return repondre("Give me a valid GitHub username like: github Raheem-cm");
   }
 
   try {
@@ -324,7 +324,7 @@ ezra({
       text: githubMessage,
       contextInfo: {
         externalAdReply: {
-          title: "LUCKY-MD GITHUB USER INFO",
+          title: "RAHEEM-XMD GITHUB USER INFO",
           body: `Information about ${data.login}`,
           mediaType: 1,
           thumbnailUrl: thumb,
@@ -467,7 +467,7 @@ ezra({
 
 🔗 *URL*: ${con.content_urls.mobile.page}
 
-> Powered by Lucky Md
+> Powered by RAHEEM-XMD
     `;
     repondre(texa);
   } catch (err) {
