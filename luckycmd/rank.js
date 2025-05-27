@@ -1,4 +1,4 @@
-const {ezra} = require("../fredi/ezra");
+const {ezra} = require("../Raheem-cm/18");
 const {getMessagesAndXPByJID,getBottom10Users} = require("../luckydatabase/level");
 
 
@@ -134,7 +134,7 @@ ezra( {
     
     
          let msg = `
-┏━━━┛ Lucky Md Ranked ┗━━━┓
+┏━━━┛ RAHEEM-XMD Ranked ┗━━━┓
          
     *Name :* @${auteurMsgRepondu.split("@")[0]}
     
@@ -146,7 +146,7 @@ ezra( {
 
     *Messages :* ${rank.messages}
     
-   ┕━✿━┑ FredieTech ┍━✿━┙`
+   ┕━✿━┑ RAHEEM-CM ┍━✿━┙`
     
      zk.sendMessage( 
         dest,
@@ -210,7 +210,7 @@ ezra( {
     
     
          let msg = `
-┏━━━┛ HERE IS LUCKY RANK  ┗━━━┓
+┏━━━┛ HERE IS RAHEEM-XMD RANK  ┗━━━┓
      
   *Name :* ${nomAuteurMessage}
 
@@ -222,7 +222,7 @@ ezra( {
 
   *Messages :* ${rang.messages}
 
-   ┕━✿━┑ FredieTech ┍━✿━┙`
+   ┕━✿━┑ RAHEEM-CM ┍━✿━┙`
     
      zk.sendMessage( 
         dest,
@@ -251,7 +251,7 @@ ezra( {
     const {ms , mybotpic} = commandeOptions ;
 
 
-       let msg = `┏━━┛ Lucky Md┗━━┓\n\n`
+       let msg = `┏━━┛ RAHEEM-XMD ┗━━┓\n\n`
        
       let topRanks = await getBottom10Users() ;
         let mention = [] ;
