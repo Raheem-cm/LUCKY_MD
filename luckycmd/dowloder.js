@@ -1,4 +1,4 @@
-const { ezra } = require("../fredi/ezra");
+const { ezra } = require("../Raheem-cm/18");
 const axios = require('axios');
 const conf = require(__dirname + "/../set");
 
@@ -26,7 +26,7 @@ const handleDownload = async (dest, zk, params, serviceName, apiUrl, exampleUsag
             title: conf.BOT,
             body: "Fast & Reliable Downloads",
             thumbnailUrl: conf.URL,
-            sourceUrl: "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f",
+            sourceUrl: "https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r",
             mediaType: 1,
             showAdAttribution: true,
           },
