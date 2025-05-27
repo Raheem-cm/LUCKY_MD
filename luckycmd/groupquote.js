@@ -1,5 +1,5 @@
 
-const { ezra } = require('../fredi/ezra');
+const { ezra } = require('../Raheem-cm/18');
 
 ezra({ nomCom: 'quote', categorie: 'Group' }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, verifGroupe, arg } = commandeOptions;
@@ -31,13 +31,13 @@ Powered by *frediezra*`);
       fetch('https://animechan.xyz/api/random/character?name=' + query)
         .then((response) => response.json())
         .then(async (quote) => {
-          repondre(`LUCKY-MD
+          repondre(`RAHEEM-XMD
 
 🎬 Anime: ${quote.anime}
 👤 Character: ${quote.character}
 💬 Quote: ${quote.quote}
 
-Powered by *frediezra*`);
+Powered by *RAHEEM*`);
         });
     } catch (e) {
       repondre('Erreur lors de la génération de la citation : ' + e.message);
