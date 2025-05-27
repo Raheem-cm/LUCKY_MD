@@ -1,9 +1,9 @@
-const {zokou }= require ('../framework/zokou') ;
+const {Raheem}= require ('../Raheem-cm/18') ;
 const {addstickcmd, deleteCmd, getCmdById, inStickCmd , getAllStickCmds} = require('../bdd/stickcmd') ;
 
 
 
-zokou(
+Raheem(
     {
         nomCom : 'setcmd',
         categorie : 'stickcmd'
