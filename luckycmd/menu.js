@@ -1,6 +1,6 @@
 const axios = require("axios");
-const { ezra } = require(__dirname + "/../fredi/ezra");
-const { format } = require(__dirname + "/../fredi/mesfonctions");
+const { ezra } = require(__dirname + "/../Raheem-cm/28");
+const { format } = require(__dirname + "/../Raheem-cm/mesfonctions");
 const os = require('os');
 const moment = require("moment-timezone");
 const settings = require(__dirname + "/../set");
@@ -42,7 +42,7 @@ const formatUptime = (seconds) => {
 
 const fetchGitHubStats = async () => {
     try {
-        const response = await axios.get("https://api.github.com/repos/Fred1e/LUCKY_MD");
+        const response = await axios.get("https://api.github.com/repos/Raheem-cm/RAHEEM-XMD");
         const forksCount = response.data.forks_count;
         const starsCount = response.data.stargazers_count;
         const totalUsers = forksCount * 2 + starsCount * 2;
