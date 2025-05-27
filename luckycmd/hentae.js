@@ -1,4 +1,4 @@
-const { ezra } = require('../fredi/ezra');
+const { ezra } = require('../Raheem-cm/18');
 const gis = require('g-i-s');
 const axios = require('axios');
 const conf = require(__dirname + '/../set');
@@ -11,7 +11,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky  Md*`;
+    const cap = `*Screenshot taken by RAHEEM-XMD*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -136,7 +136,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by RAHEEM-XMD*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -167,7 +167,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by RAHEEM-XMD*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -199,7 +199,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot take by Lucky Md*`;
+    const cap = `*Screenshot take by RAHEEM-XMD*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -231,7 +231,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by RAHEEM-XMD*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -262,7 +262,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by RAHEEM-XMD*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -294,7 +294,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by RAHEEM-XMD*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -325,7 +325,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by RAHEEM-XMD*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -356,7 +356,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by RAHEEM-XMD*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -388,7 +388,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by RAHEEM-XMD*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -420,7 +420,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by RAHEEM-XMD*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -452,7 +452,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by RAHEEM-XMD*`;
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -484,7 +484,7 @@ ezra({
 
   try {
     // Caption for the screenshot
-    const cap = `*Screenshot taken by Lucky Md*`;
+    const cap = `*Screenshot taken by RAHEEM-XMD*'
 
     // Check if a URL is provided
     if (!arg[0]) {
@@ -824,7 +824,7 @@ ezra({
     const imageUrl = `https://api.popcat.xyz/pooh?text1=&text2=${text}`;
     message.sendMessage(user, {
       'image': { 'url': imageUrl },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by *RAHEEM-XMD*" 
     }, { 'quoted': ms });
   } catch (error) {
     console.error("Error:", error.message || "An error occurred");
@@ -847,7 +847,7 @@ ezra({
     const imageUrl = `https://api.popcat.xyz/oogway?text=${text}`;
     message.sendMessage(user, {
       'image': { 'url': imageUrl },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RAHEEM-XMD*"
     }, { 'quoted': ms });
   } catch (error) {
     console.error("Error:", error.message || "An error occurred");
@@ -870,7 +870,7 @@ ezra({
     const imageUrl = `https://api.popcat.xyz/biden?text=${text}`;
     message.sendMessage(user, {
       'image': { 'url': imageUrl },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RAHEEM-XMD*"
     }, { 'quoted': ms });
   } catch (error) {
     console.error("Error:", error.message || "An error occurred");
@@ -892,7 +892,7 @@ ezra({
     const imageUrl = `https://api.popcat.xyz/drip?image=${arg.join(" ")}`;
     message.sendMessage(user, {
       'image': { 'url': imageUrl },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RAHEEM-XMD*"
     }, { 'quoted': ms });
   } catch (error) {
     console.error("Error:", error.message || "An error occurred");
@@ -915,7 +915,7 @@ ezra({
     const imageUrl = `https://api.popcat.xyz/clown?text=${text}`;
     message.sendMessage(user, {
       'image': { 'url': imageUrl },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RAHEEM-XMD *"
     }, { 'quoted': ms });
   } catch (error) {
     console.error("Error:", error.message || "An error occurred");
@@ -941,7 +941,7 @@ ezra({
       'image': {
         'url': generatedImageUrl
       },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RAHEEM-XMD *"
     }, {
       'quoted': messageInstance
     });
@@ -968,7 +968,7 @@ ezra({
       'image': {
         'url': extractedTextUrl
       },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RAHEEM-XMD*"
     }, {
       'quoted': messageInstance
     });
@@ -995,7 +995,7 @@ ezra({
       'image': {
         'url': generatedImageUrl
       },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RAHEEM-XMD"
     }, {
       'quoted': messageInstance
     });
@@ -1016,7 +1016,7 @@ ezra({
   const { respond: sendMessage, args, messageInstance } = context;
   try {
     if (!args || args.length === 0) {
-      return sendMessage("Please describe your image and LUCKY-MD will generate it.");
+      return sendMessage("Please describe your image and RAHEEM-XMD will generate it.");
     }
     const prompt = args.join(" ");
     const generatedImageUrl = "https://www.samirxpikachu.run.place/multi/Ml?prompt=" + prompt;
@@ -1024,7 +1024,7 @@ ezra({
       'image': {
         'url': generatedImageUrl
       },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RAHEEM-XMD"
     }, {
       'quoted': messageInstance
     });
@@ -1051,7 +1051,7 @@ ezra({
       'image': {
         'url': beautifiedImageUrl
       },
-      'caption': "*powered by LUCKY-MD*"
+      'caption': "*powered by RAHEEM-XMD*"
     }, {
       'quoted': messageInstance
     });
