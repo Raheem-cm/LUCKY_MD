@@ -2,10 +2,10 @@
 // Non visible script 
 // Prepare yourself men don't disturb others
 
-const { ezra } = require("../fredi/ezra");
+const { raheem } = require("../Raheem-cm/18");
 const axios = require("axios");
 
-ezra({ nomCom: "videologo", categorie: "Fledi-logo", reaction: "🔖" }, async (dest, zk, commandeOptions) => {
+ezra({ nomCom: "videologo", categorie: "Rahee-cm-logo", reaction: "🔖" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, arg } = commandeOptions;
   const text = arg.join(" ");
 
@@ -28,10 +28,10 @@ D ☞ tiger 🐯 video logo
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "LUCKY MD",
-        body: "Pambe Kwa, Frediezra",
-        thumbnailUrl: "https://files.catbox.moe/7irwqn.jpeg",
-        sourceUrl: "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f",
+        title: "RAHEEM XMD",
+        body: "karibu Kwa, Raheem-cm",
+        thumbnailUrl: "https://files.catbox.moe/otpqav.webp",
+        sourceUrl: "https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r",
         mediaType: 1,
         renderLargerThumbnail: true,
       },
@@ -80,7 +80,7 @@ D ☞ tiger 🐯 video logo
           await zk.sendMessage(dest, {
             video: { url: logoUrl },
             mimetype: "video/mp4",
-            caption: `> *Downloaded by Lucky Planet*`,
+            caption: `> *Downloaded by Raheem Planet*`,
           }, { quoted: ms });
         }
       }
