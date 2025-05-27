@@ -1,4 +1,4 @@
-const { ezra } = require("../fredi/ezra");
+const { raheem } = require("../Raheem-cm/18");
 const axios = require("axios");
 const { Sticker, StickerTypes } = require("wa-sticker-formatter");
 
@@ -49,7 +49,7 @@ ezra({
 
       const stickerObject = new Sticker(fileBufferResponse.data, {
         pack: messageAuthor,
-        author: "LUCKY_MD",
+        author: "RAHEEM-XMD",
         type: StickerTypes.FULL,
         categories: ['🤩', '🎉'],
         id: "12345",
