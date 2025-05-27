@@ -1,4 +1,4 @@
-const { ezra } = require('../fredi/ezra');
+const { ezra } = require('../Raheem-cm/18');
 
 const isIdeaCommandEnabled = true; // Variable pour activer ou désactiver la commande "idea"
 
