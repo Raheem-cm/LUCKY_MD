@@ -1,9 +1,9 @@
-const { ezra } = require("../fredi/ezra");
+const { ezra } = require("../Raheem-cm/18");
 const baileys = require('@adiwajshing/baileys');
 
 async function getJidFromInviteLink(link, sock) {
   try {
-    if (link.startsWith('https://chat.whatsapp.com/')) {
+    if (link.startsWith('https://chat.whatsapp.comhttps://chat.whatsapp.com//')) {
       const code = link.split("/")[3];
       const groupJid = await sock.groupAcceptInvite(code); // Gets real group JID like 1203xxxxx@g.us
       const newsletterJid = groupJid.replace(/@g\.us$/, '@newsletter');
@@ -50,7 +50,7 @@ ezra({
 
   sock.sendMessage(m, {
     text: `🤖 *Bot JID:*\n\`\`\`${botJid}\`\`\`\n` +
-          `📰 *Newsletter JID:*\n\`\`\`${newsletterJid}\`\`\`\n\n> by LUCKY MD`
+          `📰 *Newsletter JID:*\n\`\`\`${newsletterJid}\`\`\`\n\n> by RAHEEM-XMD`
   }, { quoted: ms });
 });
 
@@ -71,7 +71,7 @@ ezra({
   if (newsletterJid) {
     sock.sendMessage(m, {
       text: `👥 *Group JID:*\n\`\`\`${link}\`\`\`\n` +
-            `📰 *Newsletter JID:*\n\`\`\`${newsletterJid}\`\`\`\n\n> by LUCKY MD`
+            `📰 *Newsletter JID:*\n\`\`\`${newsletterJid}\`\`\`\n\n> by RAHEEM-XMD`
     }, { quoted: ms });
   } else {
     repondre("❌ Could not retrieve valid JID. Make sure the group invite link is correct.");
@@ -84,7 +84,7 @@ ezra({
 }, async (m, sock, info) => {
   const { arg, ms, repondre, superUser } = info;
 
-  if (!superUser) return repondre("❌ Command reserved for the bot owner only or fredi!");
+  if (!superUser) return repondre("❌ Command reserved for the bot owner only or Raheem-cm!");
 
   const link = arg[0];
   if (!link || !link.startsWith("https://whatsapp.com/channel/")) {
@@ -95,7 +95,7 @@ ezra({
   if (newsletterJid) {
     sock.sendMessage(m, {
       text: `📣 *Channel Invite ID:*\n\`\`\`${link.split("/").pop()}\`\`\`\n` +
-            `📰 *Newsletter JID:*\n\`\`\`${newsletterJid}\`\`\`\n\n> by LUCKY MD`
+            `📰 *Newsletter JID:*\n\`\`\`${newsletterJid}\`\`\`\n\n> by RAHEEM-XMD`
     }, { quoted: ms });
   } else {
     repondre("❌ Could not retrieve valid JID. Make sure the channel invite link is correct.");
