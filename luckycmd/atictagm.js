@@ -1,6 +1,6 @@
 const {
   ezra
-} = require('../fredi/ezra');
+} = require('../Raheem-cm/18');
 ezra({
   'nomCom': "tictac",
   'categorie': "Games",
