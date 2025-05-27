@@ -1,9 +1,9 @@
 
-const {ezra } = require("../fredi/ezra");
+const {ezra } = require("../Raheem-cm/18");
 const axios = require('axios');
 const cheerio = require('cheerio');
-let func = require('../fredi/mesfonctions') ;
-let hdb = require('../luckydatabase/hentai') ;
+let func = require('../Raheem-cm/mesfonctions') ;
+let hdb = require('../RAHEEMdatabase/hentai') ;
 
 
 ezra({
