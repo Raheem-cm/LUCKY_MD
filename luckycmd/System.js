@@ -1,5 +1,5 @@
 
-const { ezra } = require('../fredi/ezra');
+const { cm18} = require('../Raheem-cm/18');
 const Heroku = require('heroku-client');
 const s = require("../set");
 const axios = require("axios");
@@ -116,8 +116,8 @@ ezra({
     'https://files.catbox.moe/wdap4t.mp3',
     'https://files.catbox.moe/26oeeh.mp3',
     'https://files.catbox.moe/a1sh4u.mp3',
-    'https://files.catbox.moe/vuuvwn.m4a',
-    'https://files.catbox.moe/wx8q6h.mp3',
+    
+    'https://moe/wx8q6h.mp3s://files.catbox.moe/wx8q6h.mp3',
     'https://files.catbox.moe/uj8fps.m4a',
     'https://files.catbox.moe/dc88bx.m4a',
     'https://files.catbox.moe/tn32z0.m4a'
@@ -192,7 +192,7 @@ ezra({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner 🤦*");
+    return repondre("*This command is restricted to the bot owner or RAHEEM XMD owner 🤦*");
   }
 
   const appname = s.HEROKU_APP_NAME;
@@ -235,7 +235,7 @@ ezra({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Lucky owner 🤦*");
+    return repondre("*This command is restricted to the bot owner or RAHEEM XMD owner 🤦*");
   }
 
   const appname = s.HEROKU_APP_NAME;
@@ -423,7 +423,7 @@ ezra({
         `https://api.heroku.com/apps/${herokuAppName}/builds`,
         {
           source_blob: {
-            url: "https://github.com/Fred1e/LUCKY_MD/tarball/main",
+            url: "https://github.com/Raheem-cm/RAHEEM XMD/tarball/main",
           },
         },
         {
