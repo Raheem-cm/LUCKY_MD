@@ -1,4 +1,4 @@
-const { ezra } = require("../fredi/ezra");
+const { ezra } = require("../Raheem-cm/18");
 const axios = require("axios");
 
 ezra({ nomCom: "logo", categorie: "Search", reaction: "🤭" }, async (dest, zk, commandeOptions) => {
@@ -70,10 +70,10 @@ ezra({ nomCom: "logo", categorie: "Search", reaction: "🤭" }, async (dest, zk,
     const contextInfo = {
       mentionedJid: [ms.sender], // Mention the sender
       externalAdReply: {
-        title: "🍂 𝐋𝐔𝐂𝐊𝐘-𝚳𝐃 🤦",
-        body: "Regards, Frediezra",
-        thumbnailUrl: "https://files.catbox.moe/7irwqn.jpeg",
-        sourceUrl: "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f",
+        title: "🍂 RAHEEM-XMD 🤦",
+        body: "Regards, RAHEEM",
+        thumbnailUrl: "https://files.catbox.moe/otpqav.webp",
+        sourceUrl: "https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r",
         mediaType: 1,
         renderLargerThumbnail: true,
       },
@@ -258,7 +258,7 @@ ezra({ nomCom: "logo", categorie: "Search", reaction: "🤭" }, async (dest, zk,
         if (logoUrl) {
           await zk.sendMessage(dest, {
             image: { url: logoUrl },
-            caption: `*Created logo by Lucky Md*`,
+            caption: `*Created logo by RAHEEM-XMD*`,
           }, { quoted: ms });
         }
       }
