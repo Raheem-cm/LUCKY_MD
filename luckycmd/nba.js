@@ -1,5 +1,5 @@
 const axios = require('axios');
-const { ezra } = require("../fredi/ezra");
+const { raheem } = require("../Raheem-cm/18");
 const conf = require(__dirname + '/../set');
 
 // NBA API Key and URL (replace with the correct API endpoint)
