@@ -1,5 +1,5 @@
-const { ezra } = require('../fredi/ezra');
-const { attribuerUnevaleur } = require('../luckydatabase/welcome');
+const { ezra } = require('../Raheem-cm/18');
+const { attribuerUnevaleur } = require('../RAHEEM-XMD database/welcome');
 
 async function events(nomCom) {
     ezra({
