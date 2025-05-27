@@ -1,17 +1,17 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
-const { ezra } = require("../fredi/ezra");
+const { raheem} = require("../Raheem-cm/18");
 const { conf } = require('../set')
 ezra(
-    { nomCom: "luckymd", reaction: "👊", nomFichier: __filename },
+    { nomCom: "RAHEEM-XMD", reaction: "👊", nomFichier: __filename },
     async (dest, zk, commandeOptions) => {
         console.log("Commande saisie !!!s");
         let z =
-            "Hello I'm *✧⁠LUCKY_MD✧* \n\n " +
+            "Hello I'm *✧⁠RAHEEM_XMD✧* \n\n " +
             "I'm a Whatsapp Bot Multi-Device";
         let d = " Made By *Fredie Sir*";
         let varmess = z + d;
-        var img = "https://files.catbox.moe/7irwqn.jpeg";
+        var img = "https://files.catbox.moe/otpqav.webp";
         await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
         //console.log("montest")
     }
@@ -25,7 +25,7 @@ console.log("mon test");
 
 async function  execute  (origineMessage,zok) {
   console.log("Commande saisie !!!s")
-   let z ='Salut je m\'appelle *ezra* \n\n '+'je suis un bot Whatsapp Multi-appareil '
+   let z ='Salut je m\'appelle *raheem* \n\n '+'je suis un bot Whatsapp Multi-appareil '
       let d =' developpé par *Djalega++*'
       let varmess=z+d
       var img='https://telegra.ph/file/626e7105422c8908f723d.jpg'
@@ -41,7 +41,7 @@ const sentMsg1  = await zk.sendMessage(dest, { text: 'Oh! Hi There' })
 // send a reply messagge
 const sentMsg2  = await zk.sendMessage(dest, { text: 'Oh! Hi There' }, { quoted: ms })
 // send a mentions message
-const sentMsg3  = await zk.sendMessage(dest, { text: '@255752593977', mentions: ['12345678901@s.whatsapp.net'] })
+const sentMsg3  = await zk.sendMessage(dest, { text: '255763111390', mentions: ['12345678901@s.whatsapp.net'] })
 // send a location!
 const sentMsg4  = await zk.sendMessage(
     dest, 
@@ -50,9 +50,9 @@ const sentMsg4  = await zk.sendMessage(
 // send a contact!
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Fredie Sir\n' // full name
+            + 'FN:Raheem Sir\n' // full name
             + 'ORG:Ashoka Uni;\n' // the organization of the contact
-            + 'TEL;type=CELL;type=VOICE;waid=255752593977:+255752593977\n' // WhatsApp ID + phone number
+            + 'TEL;type=CELL;type=VOICE;waid=255763111390:+255763111390\n' // WhatsApp ID + phone number
             + 'END:VCARD'
 const sentMsg5  = await zk.sendMessage(
     dest,
@@ -83,7 +83,7 @@ const sentMsg6 = await zk.sendMessage(dest, buttonMessage)
 //send a template message!
 const templateButtons = [
     {index: 1, urlButton: {displayText: '⭐ Star Baileys on GitHub!', url: 'https://github.com/adiwajshing/Baileys'}},
-    {index: 2, callButton: {displayText: 'Call me!', phoneNumber: '255752593977'}},
+    {index: 2, callButton: {displayText: 'Call me!', phoneNumber: 255763111390'}},
     {index: 3, quickReplyButton: {displayText: 'This is a reply, just like normal buttons!', id: 'id-like-buttons-message'}},
 ]
 
