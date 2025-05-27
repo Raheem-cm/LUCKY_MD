@@ -1,5 +1,5 @@
 const axios = require('axios');
-const { ezra } = require("../fredi/ezra");
+const { ezra } = require("../Raheem-cm/18");
 
 const BaseUrl = 'https://api.giftedtechnexus.co.ke';
 const downloadUrl = 'https://api.giftedtechnexus.co.ke/api/download/xnxxdl';
