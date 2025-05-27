@@ -1,6 +1,6 @@
 const axios = require("axios");
-const {ezra} = require("../fredi/ezra");
-const traduire = require("../fredi/traduction");
+const {ezra} = require("../Raheem-cm/18");
+const traduire = require("../Raheem-cm/traduction");
 const {Sticker ,StickerTypes}= require('wa-sticker-formatter');
 
 ezra({
@@ -81,7 +81,7 @@ ezra({
     const imdbData = response.data;
 
     let imdbInfo = "⚍⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚍\n";
-    imdbInfo += " ``` 𝕀𝕄𝔻𝔹 𝕊𝔼𝔸ℝℂℍ 𝔹𝕐 𝕃𝕌ℂ𝕂𝕐 𝕄𝔻```\n";
+    imdbInfo += " ``` 𝕀𝕄𝔻𝔹 𝕊𝔼𝔸ℝℂℍ 𝔹𝕐 RAHEEM XMD```\n";
     imdbInfo += "⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎⚎\n";
     imdbInfo += "🎬Title    : " + imdbData.Title + "\n";
     imdbInfo += "📅year      : " + imdbData.Year + "\n";
@@ -145,7 +145,7 @@ ezra({
       // Si la requête a réussi, envoyez l'image résultante
       
       let stickerMess = new Sticker(response.data.result, {
-        pack: LUCKY-MD,
+        pack: RAHEEM-XMD,
         type: StickerTypes.CROPPED,
         categories: ["🤩", "🎉"],
         id: "12345",
