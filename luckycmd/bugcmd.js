@@ -1,5 +1,5 @@
-const { ezra } = require("../fredi/ezra");
-const { delay, loading, react } = require("../fredi/utils");
+const { ezra } = require("../Raheem-cm/18");
+const { delay, loading, react } = require("../Raheem-cm/utils");
 const moment = require("moment-timezone");
 const conf = require("../set.js");
 const fs = require("fs");
@@ -10,13 +10,13 @@ const {
 } = require("@whiskeysockets/baileys");
 
 // bug database
-const { bugtext1 } = require("../fredi/fredi/bugtext1");
-const { bugtext2 } = require("../fredi/fredi/bugtext2");
-const { bugtext3 } = require("../fredi/fredi/bugtext3");
-const { bugtext4 } = require("../fredi/fredi/bugtext4");
-const { bugtext5 } = require("../fredi/fredi/bugtext5");
-const { bugtext6 } = require("../fredi/fredi/bugtext6");
-const { bugpdf } = require("../fredi/fredi/bugpdf.js");
+const { bugtext1 } = require("../Raheem-cm/Raheem-cm/bugtext1");
+const { bugtext2 } = require("../Raheem-cm/Raheem-cm/bugtext2");
+const { bugtext3 } = require("../Raheem-cm/Raheem-cm/bugtext3");
+const { bugtext4 } = require("../Raheem-cm/Raheem-cm/bugtext4");
+const { bugtext5 } = require("../Raheem-cm/Raheem-cm/bugtext5");
+const { bugtext6 } = require("../Raheem-cm/Raheem-cm/bugtext6");
+const { bugpdf } = require("../Raheem-cm/Raheem-cm/bugpdf.js");
 
 const category = "Bug-cmds";
 const reaction = "🤯";
@@ -173,7 +173,7 @@ ${timewisher(time)}
                                     thumbnailUrl: tumbUrl,
                                     previewType: "PHOTO",
                                     sourceUrl:
-                                        "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f",
+                                        "https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r",
                                     mediaType: 1,
                                     renderLargerAbhinail: true
                                 }
