@@ -3,7 +3,7 @@ const {
 } = require("child_process");
 const {
   ezra
-} = require("../fredi/ezra");
+} = require("../Raheem-cm/18");
 const {
   Sticker,
   StickerTypes
@@ -12,11 +12,11 @@ const {
   ajouterOuMettreAJourJid,
   mettreAJourAction,
   verifierEtatJid
-} = require('../luckydatabase/antilien');
+} = require('../RAHEEMdatabase/antilien');
 const {
   atbajouterOuMettreAJourJid,
   atbverifierEtatJid
-} = require('../luckydatabase/antibot');
+} = require('../RAHEEMdatabase/antibot');
 const {
   search,
   download
