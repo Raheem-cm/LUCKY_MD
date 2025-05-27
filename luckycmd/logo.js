@@ -1,4 +1,4 @@
-const { ezra } = require("../fredi/ezra");
+const { ezra } = require("../Raheem-cm/18");
 var mumaker = require("mumaker");
 ezra({ nomCom: "hacker",
     categorie: "Logo", reaction: "👨🏿‍💻" }, async (origineMessage, zk, commandeOptions) => {
@@ -15,7 +15,7 @@ ezra({ nomCom: "hacker",
         // console.log("&€"+res);
       //  let lien = "https://e1.yotools.net" + res;
         repondre("* processing...*");
-        await zk.sendMessage(origineMessage, { image: { url:anu.image}, caption: "* \t Logo made by LUCKY-MD*" }, { quoted: ms });
+        await zk.sendMessage(origineMessage, { image: { url:anu.image}, caption: "* \t Logo made by RAHEEM-XMD*" }, { quoted: ms });
     }
     catch (e) {
         repondre("🥵🥵 " + e);
@@ -332,7 +332,7 @@ ezra({ nomCom: "harrypotter", categorie: "Logo", reaction: "🧙‍♂️" }, as
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/create-harry-potter-text-effect-online-1025.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by LUCKY' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by RAHEEM' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
@@ -368,7 +368,7 @@ ezra({ nomCom: "whitegold", categorie: "Logo", reaction: "💫" }, async (dest, 
   const text = arg.join(" ");
   mumaker.textpro("https://textpro.me/elegant-white-gold-3d-text-effect-online-free-1070.html", text)
     .then((data) => {
-      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by FREDI' }, { quoted: ms });
+      zk.sendMessage(dest, { image: { url: data.image }, caption: 'Logo by RAHEEM' }, { quoted: ms });
     })
     .catch((err) => {
       console.error("Une erreur s'est produite :", err);
@@ -434,11 +434,11 @@ ezra({nomCom:"purple",categorie:"Logo",reaction:"🧳"},async(dest,zk,commandeOp
     try{
       if(!arg||arg=="")
   {
-    repondre(prefixe+"purple Lucky");return;}
+    repondre(prefixe+"purple RAHEEM");return;}
       const lien="https://en.ephoto360.com/purple-text-effect-online-100.html"
       var img = await mumaker.ephoto(lien,arg);
       repondre(" processing ...")
-      await zk.sendMessage(dest,{image:{url:img.image},caption:"      *Logo by LUCKY_MD*"});
+      await zk.sendMessage(dest,{image:{url:img.image},caption:"      *Logo by RAHEEM-XMD*"});
     }catch(e){repondre(e)}
   
 })
@@ -457,7 +457,7 @@ ezra({nomCom:"gold",categorie:"Logo",reaction:"🧚🏿‍♀️"},async(dest,zk
 
     var img = await mumaker.ephoto(lien,arg);
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by LUCKY_MD*"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by RAHEEM-XMD*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
 
@@ -469,14 +469,14 @@ ezra({nomCom:"arena",categorie:"Logo",reaction:"🥵"},async(dest,zk,commandeOpt
   try{
       if(!arg||arg=="")
       {
-        repondre(prefixe+"arena Lucky-MD");return;
+        repondre(prefixe+"arena RAHEEM-XMD");return;
       }
 
     var lien="https://en.ephoto360.com/create-cover-arena-of-valor-by-mastering-360.html";
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by LUCKY_MD*"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by RAHEEM-XMD*"},{quoted:ms})
   }catch(e){repondre(e)}
 })
 
@@ -487,14 +487,14 @@ ezra({nomCom:"incandescent",categorie:"Logo",reaction:"😋"},async(dest,zk,comm
   try{
       if(!arg||arg=="")
       {
-        repondre(prefixe+"incandescent LUCKY-MD");return;
+        repondre(prefixe+"incandescent RAHEEM-XMD");return;
       }
 
     var lien="https://en.ephoto360.com/text-effects-incandescent-bulbs-219.html";
 
     var img = await mumaker.ephoto(lien,arg.join(' '));
    repondre("processing ...")
-    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by LUCKY_MD *"},{quoted:ms})
+    await zk.sendMessage(dest,{image:{url:img.image},caption:" *Logo by RAHEEM-XMD*"},{quoted:ms})
   } catch(e){repondre(e)}
 })
 
@@ -502,7 +502,7 @@ ezra({ nomCom: "gif×1", categorie: "Logo", reaction: "😋" }, async (dest, zk,
   let { ms, arg, prefixe, repondre } = commandeOptions;
   try {
     if (!arg || arg === "") {
-      repondre(`${prefixe}gif×1 Thomas-MD`);
+      repondre(`${prefixe}gif×1 RAHEEM-XMD`);
       return;
     }
 
@@ -510,7 +510,7 @@ ezra({ nomCom: "gif×1", categorie: "Logo", reaction: "😋" }, async (dest, zk,
     const lien = `https://api.caliph.biz.id/api/kaneki?nama=${encodeURIComponent(text)}&apikey=caliphkey`;
     const img = await mumaker.sendFile(m.chat, lien, 'logo.png', '✅ Result', m);
     repondre("Processing...");
-    await zk.sendMessage(dest, { image: { url: img }, caption: "*Logo by Lucky-Md*" }, { quoted: ms });
+    await zk.sendMessage(dest, { image: { url: img }, caption: "*Logo by RAHEEM-XMD*" }, { quoted: ms });
   } catch (e) {
     repondre(e);
   }
