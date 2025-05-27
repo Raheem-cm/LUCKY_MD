@@ -1,4 +1,4 @@
-const { ezra } = require('../fredi/ezra');
+const { raheem } = require('../Raheem-cm/18');
 const axios = require("axios");
 
 ezra({
@@ -26,7 +26,7 @@ ezra({
     }
 
     // Construct the search message
-    let searchMessage = `LUCKY MD PLANET TWITTER SEARCH\n\n`;
+    let searchMessage = `RAHEEM XMD PLANET TWITTER SEARCH\n\n`;
     searchMessage += `Creator: ${response.data.creator}\n\n`;  // Include the creator info
 
     // Loop through search results and append details to the message
@@ -48,9 +48,9 @@ ezra({
           mentionedJid: [dest],
           externalAdReply: {
             showAdAttribution: true,
-            title: "LUCKY MD TWITTER SEARCH",
-            body: "Pambe kwa Frediezra",
-            sourceUrl: "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f",
+            title: "RAHEEM XMD TWITTER SEARCH",
+            body: "KARIBU kwa Rajee",
+            sourceUrl: "https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r",
             mediaType: 1,
             renderLargerThumbnail: false,
           },
