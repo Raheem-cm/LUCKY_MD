@@ -1,5 +1,5 @@
 const axios = require('axios');
-const { ezra } = require('../fredi/ezra');
+const { raheem } = require('../Raheem-cm/18');
 
 ezra({
   nomCom: "currencylist",
