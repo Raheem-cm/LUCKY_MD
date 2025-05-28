@@ -1,5 +1,5 @@
 
-const { ezra } = require("../fredi/ezra");
+const { raheem } = require("../Raheem-cm/18");
 const axios = require("axios");
 
 // Define the command with aliases
@@ -46,7 +46,7 @@ ezra({
   }
 
   const { title, artist, thumb, lyrics } = lyricsData.result;
-  const imageUrl = thumb || "https://files.catbox.moe/b2vql7.jpg";
+  const imageUrl = thumb || "https://files.catbox.moe/pzurkd.jpg";
 
   const caption = `**Title**: ${title}\n**Artist**: ${artist}\n\n${lyrics}`;
 
