@@ -1,4 +1,4 @@
-const {ezra}=require("../fredi/ezra")
+const {raheem}=require("../Raheem-cm/18")
 const {getContentType}=require("@whiskeysockets/baileys")
 
 
