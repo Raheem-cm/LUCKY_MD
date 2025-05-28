@@ -5,7 +5,7 @@ Object.defineProperty(exports, '__esModule', {
 });
 const {
   ezra
-} = require("../fredi/ezra");
+} = require("../Raheem-cm/18");
 ezra({
   'nomCom': "wallpaper4",
   'reaction': '🎞',
@@ -16,7 +16,7 @@ ezra({
     'image': {
       'url': 'https://telegra.ph/file/6710065448c2367f23fcb.jpg'
     },
-    'caption': "🚗𝗥𝗮𝗻𝗱𝗼𝗺 𝘄𝗮𝗹𝗹𝗽𝗮𝗽𝗲𝗿 \n\n 🚘Download it and set it to your wallpaper 𝗙𝗿𝗼𝗺 (LUCKY-𝗠𝗗)🚗MADE BY FREDIE ADMIN"
+    'caption': "🚗𝗥𝗮𝗻𝗱𝗼𝗺 𝘄𝗮𝗹𝗹𝗽𝗮𝗽𝗲𝗿 \n\n 🚘Download it and set it to your wallpaper 𝗙𝗿𝗼𝗺 (RAHEEM-X𝗠𝗗)🚗MADE BY RAHEEM ADMIN"
   });
 });
 console.log("mon test");
