@@ -1,5 +1,5 @@
 const axios = require('axios');
-const { ezra } = require("../fredi/ezra");
+const { ezra } = require("../Raheem-cm/18");
 const conf = require(__dirname + '/../set');
 
 // Football Data API URL and your API key
