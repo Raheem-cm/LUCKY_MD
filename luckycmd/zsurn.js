@@ -79,7 +79,7 @@ ezra({
         externalAdReply: {
           title: "Error Fetching Quran Passage",
           body: "Please try again later.",
-          thumbnailUrl: "https://files.catbox.moe/08tmem.jpg", // Replace with a suitable thumbnail URL
+          thumbnailUrl: "https://files.catbox.moe/daj3p0.jpg", // Replace with a suitable thumbnail URL
           sourceUrl: conf.GURL,
           mediaType: 1,
           showAdAttribution: true,
