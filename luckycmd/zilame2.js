@@ -1,12 +1,12 @@
 
 const cheerio = require('cheerio');
-const { ezra } = require("../fredi/ezra");
+const { ezra } = require("../Raheem-cm/18");
 const JavaScriptObfuscator = require("javascript-obfuscator");
 const { c, cpp, node, python, java } = require('compile-run');
-const { dBinary, eBinary } = require("../fredi/binary");
+const { dBinary, eBinary } = require("../Raheem-cm/binary");
 const { default: axios } = require("axios");
 const { writeFile } = require("fs/promises");
-const { mediafireDl } = require("../fredi/dl/Function");
+const { mediafireDl } = require("../Raheem-cm/dl/Function");
 
  // command for run cc++
 ezra({
@@ -439,13 +439,13 @@ ezra({
       // Send image message
       await zk.sendMessage(sender, {
         image: { url: fetchUrl },
-        caption: "> Thank you for choosing Lucky md"
+        caption: "> Thank you for choosing RAHEEM-XMD"
       }, { quoted: context.ms });
     } else if (/video\/.*/.test(contentType)) {
       // Send video message
       await zk.sendMessage(sender, {
         video: { url: fetchUrl },
-        caption: "> *Thank for choosing Lucky Md*"
+        caption: "> *Thank for choosing RAHEEM-XMD*"
       }, { quoted: context.ms });
     } else if (/text|json/.test(contentType)) {
       try {
@@ -461,7 +461,8 @@ ezra({
       // Send other types of documents
       await zk.sendMessage(sender, {
         document: { url: fetchUrl },
-        caption: "> *Thank you for choosing Lucky Md*"
+        caption: "> *Thank you for choosing RAHEEM-XMD
+         *"
       }, { quoted: context.ms });
     }
   } catch (error) {
