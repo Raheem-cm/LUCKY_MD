@@ -1,4 +1,4 @@
-const { ezra } = require("../fredi/ezra");
+const { raheem } = require("../Raheem-cm/18");
 const ai = require('unlimited-ai');
 const axios = require('axios'); // Added missing axios import
 const fs = require('fs');
@@ -25,7 +25,7 @@ const handleAiCommand = async (dest, zk, params, url, usageExample) => {
           title: conf.BOT,
           body: "Keep learning",
           thumbnailUrl: conf.URL,
-          sourceUrl: "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f",
+          sourceUrl: "https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r",
           mediaType: 1,
           showAdAttribution: true,
         },
@@ -49,7 +49,7 @@ ezra({
 
 ezra({
   nomCom: "lucky",
-  aliases: ["luckymd", "luckybot"],
+  aliases: ["RAHEEM md", "RAHEEM bot"],
   reaction: '🤦',
   categorie: "AI4"
 }, async (dest, zk, params) => {
@@ -104,7 +104,7 @@ ezra({
           title: conf.BOT,
           body: "keep Learning",
           thumbnailUrl: conf.URL,
-          sourceUrl: "https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f",
+          sourceUrl: "https://whatsapp.com/channel/0029VbAffhD2ZjChG9DX922r",
           mediaType: 1,
           showAdAttribution: true,
         },
