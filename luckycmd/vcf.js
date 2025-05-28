@@ -1,4 +1,4 @@
-const {ezra} = require("../fredi/ezra");
+const {raheem} = require("../Raheem-cm/18");
 const fs = require('fs-extra');
 const conf = require('../set');
 const { default: axios } = require("axios");
@@ -46,7 +46,7 @@ ezra({
         document: { url: appDetails.BK9.dllink },
         fileName: `${appDetails.BK9.name}.apk`,
         mimetype: "application/vnd.android.package-archive",
-        caption: "✧⁠LUCKY_MD✧"
+        caption: "✧⁠RAHEEM_XMD✧"
       },
       { quoted: ms }
     );
