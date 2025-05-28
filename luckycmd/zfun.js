@@ -1,5 +1,5 @@
 const axios = require("axios");
-const { ezra } = require("../fredi/ezra");
+const { raheem } = require("../Raheem-cm/18");
 
 ezra({
   nomCom: "joke",
@@ -19,7 +19,7 @@ ezra({
       return repondre("❌ Error fetching joke. Please try again later.");
     }
 
-    let jokeMessage = `😂 *Lucky random Joke:*\n\n${data.joke}\n\n`;
+    let jokeMessage = `😂 *RAHEEM random Joke:*\n\n${data.joke}\n\n`;
     jokeMessage += `🤷 *Category:* ${data.category}\n`;
     jokeMessage += `🤭 *Safe:* ${data.safe}\n`;
     jokeMessage += `*ID:* ${data.id}\n`;
@@ -50,7 +50,7 @@ ezra({
       return repondre("❌ Error fetching joke. Please try again later.");
     }
 
-    let jokeMessage = `😂 *Lucky random Joke:*\n\n${data.joke}\n\n`;
+    let jokeMessage = `😂 *RAHEEM random Joke:*\n\n${data.joke}\n\n`;
     jokeMessage += `🤷 *Category:* ${data.category}\n`;
     jokeMessage += `🤭 *Safe:* ${data.safe}\n`;
     jokeMessage += `*ID:* ${data.id}\n`;
@@ -80,7 +80,7 @@ ezra({
       return repondre("❌ Error fetching joke. Please try again later.");
     }
 
-    let jokeMessage = `😂 *Lucky random Joke:*\n\n${data.joke}\n\n`;
+    let jokeMessage = `😂 *RAHEEM random Joke:*\n\n${data.joke}\n\n`;
     jokeMessage += `🤷 *Category:* ${data.category}\n`;
     jokeMessage += `🤭 *Safe:* ${data.safe}\n`;
     jokeMessage += `*ID:* ${data.id}\n`;
