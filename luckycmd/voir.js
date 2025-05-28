@@ -1,4 +1,4 @@
-const {ezra}=require("../fredi/ezra")
+const {raheem}=require("../Raheem-cm/18")
 const {getContentType}=require("@whiskeysockets/baileys")
 
 
@@ -57,7 +57,7 @@ ezra({ nomCom: "vv", aliases: ["send", "keep"], categorie: "new" }, async (dest,
       } else if (msgRepondu.stickerMessage) {
         const media = await zk.downloadAndSaveMediaMessage(msgRepondu.stickerMessage);
         const stickerMess = new Sticker(media, {
-          pack: 'LUCKY-MD',
+          pack: 'RAHEEM-XMD',
           type: StickerTypes.CROPPED,
           categories: ["🤩", "🎉"],
           id: "12345",
